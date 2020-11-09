@@ -1,0 +1,227 @@
+{
+	"kota_kabupaten": [{
+		"id": 1101,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Simeulue"
+	}, {
+		"id": 1102,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Singkil"
+	}, {
+		"id": 1103,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Selatan"
+	}, {
+		"id": 1104,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Tenggara"
+	}, {
+		"id": 1105,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Timur"
+	}, {
+		"id": 1106,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Tengah"
+	}, {
+		"id": 1107,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Barat"
+	}, {
+		"id": 1108,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Besar"
+	}, {
+		"id": 1109,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Pidie"
+	}, {
+		"id": 1110,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Bireuen"
+	}, {
+		"id": 1111,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Utara"
+	}, {
+		"id": 1112,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Barat Daya"
+	}, {
+		"id": 1113,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Gayo Lues"
+	}, {
+		"id": 1114,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Tamiang"
+	}, {
+		"id": 1115,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Nagan Raya"
+	}, {
+		"id": 1116,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Aceh Jaya"
+	}, {
+		"id": 1117,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Bener Meriah"
+	}, {
+		"id": 1118,
+		"id_provinsi": "11",
+		"nama": "Kabupaten Pidie Jaya"
+	}, {
+		"id": 1171,
+		"id_provinsi": "11",
+		"nama": "Kota Banda Aceh"
+	}, {
+		"id": 1172,
+		"id_provinsi": "11",
+		"nama": "Kota Sabang"
+	}, {
+		"id": 1173,
+		"id_provinsi": "11",
+		"nama": "Kota Langsa"
+	}, {
+		"id": 1174,
+		"id_provinsi": "11",
+		"nama": "Kota Lhokseumawe"
+	}, {
+		"id": 1175,
+		"id_provinsi": "11",
+		"nama": "Kota Subulussalam"
+	},{
+		"id": 1201,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Nias"
+	}, {
+		"id": 1202,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Mandailing Natal"
+	}, {
+		"id": 1203,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Tapanuli Selatan"
+	}, {
+		"id": 1204,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Tapanuli Tengah"
+	}, {
+		"id": 1205,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Tapanuli Utara"
+	}, {
+		"id": 1206,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Toba Samosir"
+	}, {
+		"id": 1207,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Labuhan Batu"
+	}, {
+		"id": 1208,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Asahan"
+	}, {
+		"id": 1209,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Simalungun"
+	}, {
+		"id": 1210,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Dairi"
+	}, {
+		"id": 1211,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Karo"
+	}, {
+		"id": 1212,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Deli Serdang"
+	}, {
+		"id": 1213,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Langkat"
+	}, {
+		"id": 1214,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Nias Selatan"
+	}, {
+		"id": 1215,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Humbang Hasundutan"
+	}, {
+		"id": 1216,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Pakpak Bharat"
+	}, {
+		"id": 1217,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Samosir"
+	}, {
+		"id": 1218,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Serdang Bedagai"
+	}, {
+		"id": 1219,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Batu Bara"
+	}, {
+		"id": 1220,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Padang Lawas Utara"
+	}, {
+		"id": 1221,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Padang Lawas"
+	}, {
+		"id": 1222,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Labuhan Batu Selatan"
+	}, {
+		"id": 1223,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Labuhan Batu Utara"
+	}, {
+		"id": 1224,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Nias Utara"
+	}, {
+		"id": 1225,
+		"id_provinsi": "12",
+		"nama": "Kabupaten Nias Barat"
+	}, {
+		"id": 1271,
+		"id_provinsi": "12",
+		"nama": "Kota Sibolga"
+	}, {
+		"id": 1272,
+		"id_provinsi": "12",
+		"nama": "Kota Tanjung Balai"
+	}, {
+		"id": 1273,
+		"id_provinsi": "12",
+		"nama": "Kota Pematang Siantar"
+	}, {
+		"id": 1274,
+		"id_provinsi": "12",
+		"nama": "Kota Tebing Tinggi"
+	}, {
+		"id": 1275,
+		"id_provinsi": "12",
+		"nama": "Kota Medan"
+	}, {
+		"id": 1276,
+		"id_provinsi": "12",
+		"nama": "Kota Binjai"
+	}, {
+		"id": 1277,
+		"id_provinsi": "12",
+		"nama": "Kota Padangsidimpuan"
+	}, {
+		"id": 1278,
+		"id_provinsi": "12",
+		"nama": "Kota Gunungsitoli"
+	}]
+}

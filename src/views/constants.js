@@ -1,0 +1,41 @@
+export const GET_PROVINCE = 'estate/GET_PROVINCE';
+export const GET_PROVINCE_SUCCESS = 'estate/GET_PROVINCE_SUCCESS';
+export const GET_PROVINCE_FAILED = 'estate/GET_PROVINCE_FAILED';
+
+export const GET_CITY = 'estate/GET_CITY';
+export const GET_CITY_SUCCESS = 'estate/GET_CITY_SUCCESS';
+export const GET_CITY_FAILED = 'estate/GET_CITY_FAILED';
+
+export const GET_DISTRICT = 'estate/GET_DISTRICT';
+export const GET_DISTRICT_SUCCESS = 'estate/GET_DISTRICT_SUCCESS';
+export const GET_DISTRICT_FAILED = 'estate/GET_DISTRICT_FAILED';
+
+export const GET_SUBDISTRICT = 'estate/GET_SUBDISTRICT';
+export const GET_SUBDISTRICT_SUCCESS = 'estate/GET_SUBDISTRICT_SUCCESS';
+export const GET_SUBDISTRICT_FAILED = 'estate/GET_SUBDISTRICT_FAILED';
+
+export const CREATE_USER = 'estate/CREATE_USER';
+export const CREATE_USER_SUCCESS = 'estate/CREATE_USER_SUCCESS';
+export const CREATE_USER_FAILED = 'estate/CREATE_USER_FAILED';
+
+export const LOGIN_USER = 'estate/LOGIN_USER';
+export const LOGIN_USER_SUCCESS = 'estate/LOGIN_USER_SUCCESS';
+export const LOGIN_USER_FAILED = 'estate/LOGIN_USER_FAILED';
+
+export const LOGOUT_USER = 'estate/LOGOUT_USER';
+export const LOGOUT_USER_SUCCESS = 'estate/LOGOUT_USER_SUCCESS';
+export const LOGOUT_USER_FAILED = 'estate/LOGOUT_USER_FAILED';
+
+export const SENDPASS_RESETEMAIL = 'estate/SENDPASS_RESETEMAIL';
+export const SENDPASS_RESETEMAIL_SUCCESS = 'estate/SENDPASS_RESETEMAIL_SUCCESS';
+export const SENDPASS_RESETEMAIL_FAILED = 'estate/SENDPASS_RESETEMAIL_FAILED';
+
+export const SAVE_DATA_FARM_LOCATION = 'estate/SAVE_DATA_FARM_LOCATION';
+export const SAVE_DATA_FARM_HARVEST = 'estate/SAVE_DATA_FARM_HARVEST';
+export const SAVE_DATA_RAM = 'estate/SAVE_DATA_RAM';
+export const SAVE_DATA_PRICE_RAM = 'estate/SAVE_DATA_PRICE_RAM';
+export const SAVE_DATA_NEWS = 'estate/SAVE_DATA_NEWS';
+export const SAVE_DATA_PURCHASE_TRANS = 'estate/SAVE_DATA_PURCHASE_TRANS';
+
+
+
